@@ -1,12 +1,12 @@
-# 🏦 Banco Python
+#   Banco Python
 
-## 📌 Sobre o projeto
+##   Sobre o projeto
 
 Este é o meu primeiro projeto desenvolvido em Python, criado com o objetivo de praticar lógica de programação e os principais fundamentos da linguagem.
 
 O sistema simula operações básicas de um banco diretamente no terminal, permitindo que o usuário realize cadastro, login, depósito e saque, além de validar todas as entradas para evitar erros.
 
-## 🚀 Funcionalidades
+##   Funcionalidades
 
 - ✅ Cadastro de usuário
 - ✅ Criação e confirmação de senha
@@ -17,12 +17,12 @@ O sistema simula operações básicas de um banco diretamente no terminal, permi
 - ✅ Validação das entradas do usuário
 - ✅ Animações simples utilizando o módulo `time`
 
-## 🛠️ Tecnologias utilizadas
+##   Tecnologias utilizadas
 
 - Python 3
 - Biblioteca padrão `time`
 
-## 📚 Conceitos praticados
+##   Conceitos praticados
 
 - Funções
 - Estruturas condicionais (`if`, `elif`, `else`)
@@ -32,7 +32,7 @@ O sistema simula operações básicas de um banco diretamente no terminal, permi
 - Manipulação de variáveis
 - Formatação de valores monetários
 
-## ▶️ Como executar
+##   Como executar
 
 1. Tenha o Python 3 instalado.
 2. Baixe o arquivo do projeto.
@@ -42,11 +42,11 @@ O sistema simula operações básicas de um banco diretamente no terminal, permi
 python banco.py
 ```
 
-## 🎯 Objetivo
+##   Objetivo
 
 Este projeto representa o início do meu portfólio como desenvolvedor Python e foi desenvolvido para consolidar meus conhecimentos em lógica de programação.
 
-## 🔮 Próximas melhorias
+##   Próximas melhorias
 
 - Criar um menu interativo
 - Permitir várias operações sem reiniciar o programa
